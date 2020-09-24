@@ -1,0 +1,149 @@
+
+
+.logo{
+    width: 10%;
+    justify-content: center;
+    align-items: center;
+}
+
+.back{
+    background-color: yellow;
+}
+
+.menu{
+    background-color: black;
+    
+}
+
+.letra_menu{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    color: white;
+}
+
+.letra_menu:hover{
+    color: yellow;
+    
+}
+
+.letra_drop{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(221, 28, 28);
+}
+
+.carta{
+    width: 260px;
+}
+
+.novedades{
+    background-color: yellow;
+    color: black;
+    font-weight: 800;
+}
+
+.letra_ins{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: yellow;
+    font-size: 20px;
+}
+
+.boton_submit{
+    background-color: yellow;
+    font-weight: 500;
+    font-size: 15px;
+    color: black;
+    margin-bottom: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.letra_card{
+    color: white;
+    font-weight: 900;
+}
+
+.logo_brand{
+    width: 10%;
+}
+
+.main_imagen{
+    width: 40%;
+}
+
+.flecha{
+    width: 10%;
+}
+
+.letra_boton{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.letra_boton:hover{
+    color: yellow;
+}
+
+body{
+    background-color: black;
+}
+
+.letra_titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+    color: yellow;
+}
+
+.letra_news{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+footer{
+    background-color: rgb(105, 105, 105);
+}
+
+.letra_footer{
+    color: white;
+}
+
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+
+}
+
+
+
+.dropdown-content a {
+    color: black;
+    background-color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropbtn {
+    background-color: transparent;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    padding: 8px;
+    font-size: 18px;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content a:hover {background-color: yellow;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+
+
+
